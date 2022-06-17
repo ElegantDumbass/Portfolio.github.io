@@ -10,9 +10,12 @@
   background-color: #ffa600;
 }
 #Contact {
-  background-color: #273036;
-  color: white;
+  background-color: #ffa600;
+  color: black;
 }
 #bg-foot {
-  background-color: #ffa600;
+  background-color: #273036;
+}
+#Rant {
+  background-color: #273036;
 }
